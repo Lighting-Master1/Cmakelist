@@ -1,0 +1,14 @@
+/home/newland/study_house/Cmakelist/v6/build/CMakeFiles/edit_cache.dir
+/home/newland/study_house/Cmakelist/v6/build/CMakeFiles/rebuild_cache.dir
+/home/newland/study_house/Cmakelist/v6/build/calc/CMakeFiles/calc.dir
+/home/newland/study_house/Cmakelist/v6/build/calc/CMakeFiles/edit_cache.dir
+/home/newland/study_house/Cmakelist/v6/build/calc/CMakeFiles/rebuild_cache.dir
+/home/newland/study_house/Cmakelist/v6/build/sort/CMakeFiles/sort.dir
+/home/newland/study_house/Cmakelist/v6/build/sort/CMakeFiles/edit_cache.dir
+/home/newland/study_house/Cmakelist/v6/build/sort/CMakeFiles/rebuild_cache.dir
+/home/newland/study_house/Cmakelist/v6/build/test1/CMakeFiles/app1.dir
+/home/newland/study_house/Cmakelist/v6/build/test1/CMakeFiles/edit_cache.dir
+/home/newland/study_house/Cmakelist/v6/build/test1/CMakeFiles/rebuild_cache.dir
+/home/newland/study_house/Cmakelist/v6/build/test2/CMakeFiles/app2.dir
+/home/newland/study_house/Cmakelist/v6/build/test2/CMakeFiles/edit_cache.dir
+/home/newland/study_house/Cmakelist/v6/build/test2/CMakeFiles/rebuild_cache.dir
