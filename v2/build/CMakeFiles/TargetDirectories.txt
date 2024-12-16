@@ -1,0 +1,3 @@
+/home/newland/study_house/Cmakelist/v2/build/CMakeFiles/calc.dir
+/home/newland/study_house/Cmakelist/v2/build/CMakeFiles/edit_cache.dir
+/home/newland/study_house/Cmakelist/v2/build/CMakeFiles/rebuild_cache.dir
