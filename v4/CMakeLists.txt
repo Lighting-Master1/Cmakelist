@@ -10,11 +10,23 @@ file(GLOB SRC ${CMAKE_CURRENT_SOURCE_DIR}/*.cpp)
 include_directories(${CMAKE_CURRENT_SOURCE_DIR}/include)
 
 #链接静/动态库
-link_libraries(calc)
-link_directories(${CMAKE_CURRENT_SOURCE_DIR}/lib1)
+# link_libraries(calc)
+# link_directories(${CMAKE_CURRENT_SOURCE_DIR}/lib1)
+
+link_directories(${CMAKE_CURRENT_SOURCE_DIR}/lib2)
+
+message("xxxxxxxxxxxxxxxxxxxxx")
+
 # 添加可执行文件
 add_executable(app ${SRC})
 
+
+# 链接动态库
+target_link_libraries(app calc)
+
+message(FATAL_ERROR "22statusxxxxxxxxxxxxxxxxx")
+
+message(STATUS "33statusxxxxxxxxxxxxxxxxx")
 
 #制作静态库
 #add_library(calc STATIC ${SRC})
