@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/newland/study_house/Cmakelist/build",
+  "command": "/usr/bin/g++ -I/home/newland/study_house/Cmakelist/v1/include -o CMakeFiles/app.dir/src/add.cpp.o -c /home/newland/study_house/Cmakelist/v1/src/add.cpp",
+  "file": "/home/newland/study_house/Cmakelist/v1/src/add.cpp"
+},
+{
+  "directory": "/home/newland/study_house/Cmakelist/build",
+  "command": "/usr/bin/g++ -I/home/newland/study_house/Cmakelist/v1/include -o CMakeFiles/app.dir/src/div.cpp.o -c /home/newland/study_house/Cmakelist/v1/src/div.cpp",
+  "file": "/home/newland/study_house/Cmakelist/v1/src/div.cpp"
+},
+{
+  "directory": "/home/newland/study_house/Cmakelist/build",
+  "command": "/usr/bin/g++ -I/home/newland/study_house/Cmakelist/v1/include -o CMakeFiles/app.dir/src/main.cpp.o -c /home/newland/study_house/Cmakelist/v1/src/main.cpp",
+  "file": "/home/newland/study_house/Cmakelist/v1/src/main.cpp"
+},
+{
+  "directory": "/home/newland/study_house/Cmakelist/build",
+  "command": "/usr/bin/g++ -I/home/newland/study_house/Cmakelist/v1/include -o CMakeFiles/app.dir/src/mult.cpp.o -c /home/newland/study_house/Cmakelist/v1/src/mult.cpp",
+  "file": "/home/newland/study_house/Cmakelist/v1/src/mult.cpp"
+},
+{
+  "directory": "/home/newland/study_house/Cmakelist/build",
+  "command": "/usr/bin/g++ -I/home/newland/study_house/Cmakelist/v1/include -o CMakeFiles/app.dir/src/sub.cpp.o -c /home/newland/study_house/Cmakelist/v1/src/sub.cpp",
+  "file": "/home/newland/study_house/Cmakelist/v1/src/sub.cpp"
+}
+]
