@@ -3,7 +3,7 @@ project(test)
 #定义变量
 #静态库生成的路径
 set(LIBRPATH ${CMAKE_CURRENT_SOURCE_DIR}/lib)
-#可执行文件的存储目录
+#可执行文件的存储目录、
 set(EXEPATH ${CMAKE_CURRENT_SOURCE_DIR}/bin)
 #头文件路径
 set(HEADPATH ${CMAKE_CURRENT_SOURCE_DIR}/include)
